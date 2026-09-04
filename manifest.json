@@ -1,0 +1,9 @@
+{
+  "id": "kaoyan-motivation",
+  "name": "考考考研研研",
+  "version": "1.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "每天送你一句考研激励语，支持倒计时、自定义语录、复制与写入笔记。",
+  "author": "Micheal Guo",
+  "isDesktopOnly": false
+}
